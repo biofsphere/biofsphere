@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @biofsphere, the CIO for Quadrat Assessoria e Desenvolvimento Socioambiental Ltd. :)
-- 👀 I’m interested in coding for conservation biology.
-- 🌱 I’m currently learning Django and a lot of other IT tid bits around it.
-- 💞️ I’m looking to collaborate on Python, Julia, data science, and web development for conservation biologists.
-- 📫 How to reach me? Well, for now I guess you can just send me an email to hq@quadrat.bio.br, or DM me to @biofsphere.
+- 👋 Hi, I’m @biofsphere, the CIO for Quadrat Consultancy and Sustainable Development Ltd. :)
+- 👀 Interested in coding for initiatives that support sustainable development, especially biodiversity care.
+- 🌱 Currently developing in Django and MkDocs, while learning a lot of other IT tid bits around these frameworks.
+- 💞️ Looking for to collaborate in opensource projects fundamentally built in Python and or Julia.
+- 📫 To get in touch with me, please just send an email to hq@quadrat.bio.br, or DM me to @biofsphere.
 
 <!---
 biofsphere/biofsphere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
