@@ -1,5 +1,5 @@
 ### Hi there, I'm Fernando J. Soares 👋
-The CEO for ![Quadrat Consultancy for Sustainable Development Ltd.](http://www.quadrat.bio.br), a small environmental business located in the southermost state of Brazil.
+The CEO for [Quadrat Consultancy for Sustainable Development Ltd.](http://www.quadrat.bio.br), a small environmental business located in the southermost state of Brazil.
 
 > “"Technology is, in the broadest sense, mind or intelligence or purpose blending with nature". - Paul Davies
  
