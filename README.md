@@ -1,9 +1,9 @@
 ### Hi there, I'm Fernando J. Soares 👋
-The CEO for [Quadrat Consultancy for Sustainable Development Ltd.](http://www.quadrat.bio.br), a small environmental business located in the southermost state of Brazil.
+I run [Quadrat Consultancy for Sustainable Development Ltd.](http://www.quadrat.bio.br), a small environmental business located in the southermost state of Brazil. Most of our projects involves field work doing surveys, flora and fauna inventaries, analysing potential sources of pollution, assessing environmental impacts, and working with environmental laws and regulations. Occasionaly we do come up with some IT ideas to pursui. That was the case for our ManTAU project (a technical manual to assist in the urban trees management), and the SIGP3, a full blown system to help managing the implementation of any participative environmental public policy. This particular project is under consideration to become our first open source initiative and I am excited to get to this point. 
 
 > “"Technology is, in the broadest sense, mind or intelligence or purpose blending with nature". - Paul Davies
  
-I am interested in coding for initiatives that support sustainable development, especially **biodiversity care.** Currently developing mostly in Django and MkDocs, while learning a lot of other IT tid bits around these frameworks. I am looking for to collaborate in opensource projects fundamentally built in Python. To get in touch with me, please just send an email to fernando@quadrat.bio.br, or DM me @biofsphere.
+I am mostly interested in coding for initiatives that support sustainable development, especially **biodiversity care.** Currently developing in Django and MkDocs, while learning a lot of other IT tid bits around these frameworks. I am looking for to collaborate in opensource projects fundamentally built in Python too. If you want to get in touch, do not exitate to send me an email (fernando@quadrat.bio.br), or DM me right here at @biofsphere.
   
 <div align="center">
   <a href="https://github.com/biofsphere">
