@@ -1,10 +1,9 @@
 ### Hi there, I'm Fernando J. Soares 👋
-I'm the CIO for Quadrat Consultancy and Sustainable Development Ltd. :)
+The CEO for ![Quadrat Consultancy for Sustainable Development Ltd.](http://www.quadrat.bio.br), a small environmental business located in the southermost state of Brazil.
 
 > “"Technology is, in the broadest sense, mind or intelligence or purpose blending with nature". - Paul Davies
  
-🌲 About me:
-  Interested in coding for initiatives that support sustainable development, especially **biodiversity care.** Currently developing in Django and MkDocs, while learning a lot of other IT tid bits around these frameworks. Looking for to collaborate in opensource projects fundamentally built in Python and or Julia. To get in touch with me, please just send an email to fernando@quadrat.bio.br, or DM me @biofsphere.
+I am interested in coding for initiatives that support sustainable development, especially **biodiversity care.** Currently developing mostly in Django and MkDocs, while learning a lot of other IT tid bits around these frameworks. I am looking for to collaborate in opensource projects fundamentally built in Python. To get in touch with me, please just send an email to fernando@quadrat.bio.br, or DM me @biofsphere.
   
 <div align="center">
   <a href="https://github.com/biofsphere">
