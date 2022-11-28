@@ -14,7 +14,7 @@ I am mostly interested in coding for initiatives that support sustainable develo
   
   <img align="center" alt="Nando-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Nando-django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-  <img align="center" alt="Nando-wagtail" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wagtail/wagtail-original.svg" />
+  <--!<img align="center" alt="Nando-wagtail" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wagtail/wagtail-original.svg" />-->
   <img align="center" alt="Nando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nando-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
