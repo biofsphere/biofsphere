@@ -1,9 +1,9 @@
 ### Hi there, I'm Fernando J. Soares 👋
-Admin at [Quadrat Consultancy for Sustainable Development Ltd.](http://www.quadrat.bio.br), a small environmental business located in the southernmost state of Brazil. Most of our projects involve field work doing surveys, flora, and fauna inventories, analyzing potential sources of pollution, assessing environmental impacts, and working with environmental laws and regulations. Occasionally we do come up with some IT ideas to pursue. That was the case for our ManTAU project (a technical manual to assist in urban trees management), and the SIGP3, a full-blown system to help manage any participative environmental public policy implementation. This particular project is under consideration to become our first open source initiative and I am excited to get to this point. 
+Admin at [Quadrat Consultancy for Sustainable Development Ltd.](http://www.quadrat.bio.br), a small environmental business located in the southernmost state of Brazil. Most of our projects involve field work doing surveys, flora, and fauna inventories, analyzing potential sources of pollution, assessing environmental impacts, and working with environmental laws and regulations. Occasionally we do come up with some IT ideas to pursue. That was the case for our ManTAU project ([a technical manual to assist in urban trees management](https://github.com/biofsphere/mantau-ivoti)), and the SIGP3, a full-blown system to help manage any participative environmental public policy implementation (still under development). This particular project is under consideration to become our first open source initiative and I am excited to get to this point. 
 
 > “Technology is, in the broadest sense, mind or intelligence or purpose blending with nature". - Paul Davies
  
-I am primarily interested in coding for initiatives that support sustainable development, especially **biodiversity care.** Currently developing in Django, while learning a lot in the outskirts of web development in Python. I am looking to collaborate in open-source projects fundamentally developed in Python too. If you want to get in touch, do not hesitate to send me an email (fernando@quadrat.bio.br), or DM me right here at @biofsphere. More about me you can find at https://biofsphere.github.io/resume/.
+I am primarily interested in coding for initiatives that support sustainable development, especially the **conservation of biodiversity.** Currently developing in Django, while learning a lot in the outskirts of Python software development. I am looking to collaborate in open-source projects fundamentally developed in Python too. If you want to get in touch, do not hesitate to send me an email at fernando@quadrat.bio.br, or DM me right here at @biofsphere. More about me you can find at https://biofsphere.github.io/resume/.
   
 <!--
 <div align="center">
@@ -17,10 +17,10 @@ I am primarily interested in coding for initiatives that support sustainable dev
   <img align="center" alt="Nando-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Nando-django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
   <img align="center" alt="Nando-postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
-  <img align="center" alt="Nando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Nando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Nando-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
-  <img align="center" alt="Nando-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
+  <img align="center" alt="Nando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="Nando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img align="center" alt="Nando-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />  
+  <img align="center" alt="Nando-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
   <img align="center" alt="Nando-markdown" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
   
  </div>
