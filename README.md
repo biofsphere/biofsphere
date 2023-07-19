@@ -5,13 +5,13 @@ Admin at [Quadrat Consultancy for Sustainable Development Ltd.](http://www.quadr
  
 I am primarily interested in coding for initiatives that support sustainable development, especially the **conservation of biodiversity.** Currently developing in Django, while learning a lot in the outskirts of Python software development. I am looking to collaborate in open-source projects fundamentally developed in Python too. If you want to get in touch, do not hesitate to send me an email at fernando@quadrat.bio.br, or DM me right here at @biofsphere. More about me you can find at https://biofsphere.github.io/resume/.
   
-<!--
+
 <div align="center">
   <a href="https://github.com/biofsphere">
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=biofsphere&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biofsphere&layout=compact&langs_count=7&theme=gotham"/>
 </div>
--->
+
 <div style="display: inline_block" align="center"><br>
   
   <img align="center" alt="Nando-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
