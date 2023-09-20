@@ -3,7 +3,7 @@ Admin at [Quadrat Consultancy for Sustainable Development Ltd.](http://www.quadr
 
 > “Technology is, in the broadest sense, mind or intelligence or purpose blending with nature". - Paul Davies
  
-I am primarily interested in coding for initiatives that support sustainable development, especially the **conservation of biodiversity.** Currently developing in Django, while learning a lot in the outskirts of Python software development. I am looking to collaborate in open-source projects fundamentally developed in Python too. If you want to get in touch, do not hesitate to send me an email at fernando@quadrat.bio.br, or DM me right here at @biofsphere. More about me you can find [here](https://github.com/biofsphere/resume/blob/main/FJSCVENGLISH20230915.pdf).
+I am primarily interested in coding for initiatives that support sustainable development, especially the **conservation of biodiversity.** Currently developing in Django, while learning a lot in the outskirts of Python software development. I am looking to collaborate in open-source projects fundamentally developed in Python too. If you want to get in touch, do not hesitate to send me an email at fernando@quadrat.bio.br, or DM me right here at @biofsphere. More about me you can find [here](https://biofsphere.github.io/resume/).
   
 <!--
 <div align="center">
