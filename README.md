@@ -4,7 +4,7 @@ Admin at [Quadrat A&D Socioenvironmental Ltd.](http://www.quadrat.bio.br), a sma
 
 > “Technology is, in the broadest sense, mind or intelligence or purpose blending with nature". - Paul Davies
  
-As for myself, it comes with the territory: I am primarily interested in coding for initiatives that directly support sustainable development, especially those projects that contribute to the **conservation of biodiversity**. It is a jungle out there (literally), and my weapons of survival are Python and Django. If you want to get in touch, do not hesitate to send me an email at fernando@quadrat.bio.br, or DM me right here at @biofsphere. More about me can be found [here](https://biofsphere.github.io/resume/FJSCVENGLISH20230915.pdf), or [here](https://www.escavador.com/sobre/5123068/fernando-jaeger-soares).
+As for myself, it comes with the territory: I am primarily interested in coding for initiatives that directly support sustainable development, especially those projects that contribute to the conservation of biodiversity**. It is a jungle out there (literally), and my weapons of survival are Python and Django. If you want to get in touch, do not hesitate to send me an email at fernando@quadrat.bio.br, or DM me right here at @biofsphere. More about me can be found [here](https://biofsphere.github.io/resume/FJSCVENGLISH20230915.pdf), or [here](https://www.escavador.com/sobre/5123068/fernando-jaeger-soares).
   
 <!--
 <div align="center">
