@@ -7,7 +7,10 @@ Today, we channel our efforts into promoting content, fostering the exchange of 
 More recently, we have been diligently working on an online environmental marketplace to aid small businesses like ours achieve success. We do all this because we firmly believe that biodiversity deserves better care. As the renowned physicist Paul Davies once said, *"Technology is, in the broadest sense, the merging of mind, intelligence, or purpose with nature"*.  
 
 As for me, my passion lies in coding for initiatives that directly contribute to sustainable development, particularly projects that play a role in conserving biodiversity. If you wish to connect, please feel free to email me at biofsphere@gmail.com or send me a direct message at @biofsphere. You can find more about me [here](https://biofsphere.github.io/resume/FJSCVENGLISH20230915.pdf)
+
 [![Poetry](https://img.shields.io/endpoint?url=https://python-poetry.org/badge/v0.json)](https://python-poetry.org/)
+![Static Badge](https://img.shields.io/badge/:Python)
+
   
 <!--
 <div align="center">
