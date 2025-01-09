@@ -8,11 +8,13 @@ More recently, we have been diligently working on an online support plataform fo
 
 As for me, my passion lies in coding for initiatives that directly contribute to sustainable development, particularly projects that play a role in conserving biodiversity. If you wish to connect, please email me at biofsphere@gmail.com or directly message me at @biofsphere.
 
+<!--
 <div align="center">
   <a href="https://github.com/biofsphere">
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=biofsphere&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biofsphere&layout=compact&langs_count=7&theme=gotham"/>
 </div>
+-->
 
 <div style="display: inline_block" align="center"><br>
   
