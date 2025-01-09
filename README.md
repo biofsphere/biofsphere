@@ -1,21 +1,18 @@
 ### Hi there, I'm Fernando J. Soares 👋
 
-I am an administrator at [Quadrat Assessoria Socioambiental Ltd.](https://quadrat.bio.br), a small consulting business located in the southernmost state of Brazil. For 13 years, our work has revolved around conducting field surveys, flora and fauna inventories, analyzing potential sources of pollution, assessing environmental impacts, and navigating the complexities of environmental laws and regulations. However, weary of the conflicting issues, unresolved problems, and legal uncertainties associated with business and government demands, we decided to chart a new course.
+I am an administrator at [Quadrat Assessoria Ambiental Ltd.](https://quadrat.bio.br), a small environmental consulting business located in the southernmost state of Brazil. For 14 years, our work has revolved around conducting field surveys, flora and fauna inventories, analyzing potential sources of pollution, assessing environmental impacts, and navigating the complexities of environmental laws and regulations. However, weary of the conflicting issues, unresolved problems, and legal uncertainties associated with business and government demands, we decided to chart a new course.
 
 Today, we channel our efforts into fostering the exchange of ideas, and promoting services and products emerging in the environmental market. Our journey began with the creation of [ManTAU](https://mantau-ivoti.quadrat.bio.br), a technical manual aimed at assisting the small town of [Ivoti](https://www.ivoti.rs.gov.br) in better managing its urban trees. Subsequently, we found ourselves at the forefront of the SINOSFERA development — a system designed to monitor the implementation of environmental public policies by supporting numerous community initiatives through a project management platform.
 
-More recently, we have been diligently working on an online environmental marketplace to aid small businesses like ours achieve success. We do all this because we firmly believe that biodiversity deserves better care. As the renowned physicist Paul Davies once said, *"Technology is, in the broadest sense, the merging of mind, intelligence, or purpose with nature"*.  
+More recently, we have been diligently working on an online support plataform for environmental consultants alike to achieve success. We do all this because we firmly believe that biodiversity deserves better care. As the renowned physicist Paul Davies once said, *"Technology is, in the broadest sense, the merging of mind, intelligence, or purpose with nature"*.  
 
 As for me, my passion lies in coding for initiatives that directly contribute to sustainable development, particularly projects that play a role in conserving biodiversity. If you wish to connect, please email me at biofsphere@gmail.com or directly message me at @biofsphere.
 
-  
-<!--
 <div align="center">
   <a href="https://github.com/biofsphere">
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=biofsphere&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biofsphere&layout=compact&langs_count=7&theme=gotham"/>
 </div>
--->
 
 <div style="display: inline_block" align="center"><br>
   
